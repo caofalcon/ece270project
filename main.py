@@ -4,7 +4,7 @@ import multiprocessing
 
 TIME_HORIZON = 100
 NUM_PLAYERS = 12
-MAX_RESOURCE = 40
+MAX_RESOURCE = 10
 NUM_RESOURCES = 4
 
 alpha = 0.1
